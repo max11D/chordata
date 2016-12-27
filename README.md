@@ -1,12 +1,12 @@
-## Chordata
+# Chordata
 
 A gem that lets one easily convert hash keys between `snake_case` and `camelCase`.
 
-# Requirements
+## Requirements
 
 None.
 
-# Usage
+## Usage
 
 As an example:
 
@@ -33,6 +33,6 @@ Both methods also accept an optional `deep` keyword argument. By default, transf
 
 Note that nested hashes may still have non-String keys since the method does not operate on them.
 
-# Copyright
+## Copyright
 
 Copyright (c) 2017 Online Diamonds Intl. Corp. See LICENSE for details.

@@ -35,4 +35,4 @@ Note that nested hashes may still have non-String keys since the method does not
 
 ## Copyright
 
-Copyright (c) 2017 Online Diamonds Intl. Corp. See LICENSE for details.
+Copyright (c) 2016 Online Diamonds Intl. Corp. See LICENSE for details.

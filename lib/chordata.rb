@@ -1,4 +1,3 @@
-puts "REQUIRING CHORDATA"
 require "hash.rb"
 
 module Chordata
